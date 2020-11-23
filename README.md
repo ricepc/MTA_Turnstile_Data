@@ -1,8 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ricepc/MTA_Turnstile_Data/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+##Summary
+##Retrieving and Cleaning the Data 
+##Visualizing the Data
+##Forecast Models
+##Conclusion
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
