@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ## Summary
 
 ## Retrieving and Cleaning the Data 
