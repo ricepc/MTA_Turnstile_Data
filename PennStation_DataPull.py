@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 ## Python Script to pull turnstile data from http://web.mta.info/developers/turnstile.html
 ## The purpose of the this script extract the data off the web and combine in to one file
 ## This complete file can be cleaned and used for data exploration and forcasting
